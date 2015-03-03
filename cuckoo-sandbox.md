@@ -19,7 +19,7 @@ https://github.com/andrewsmhay/cuckoo
 https://github.com/buguroo/cuckooautoinstall
 
 ## Email analysis
-- #### automated Email Analysis with Cuckoo Sandbox
+- #### automated email analysis with Cuckoo Sandbox
 https://github.com/kdomic/Cuckoo_Sandbox_and_Email
 
 - #### a mail listener for cuckoosandbox
