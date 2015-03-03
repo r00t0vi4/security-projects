@@ -1,5 +1,9 @@
 # Cuckoo Sandbox
 Cuckoo Sandbox is an Open Source software for automating analysis of suspicious files
+http://www.cuckoosandbox.org/
+
+## Documentation
+http://docs.cuckoosandbox.org/en/latest/
 
 ## Sandbox repositories
 - #### official cuckoo sandbox repository
@@ -18,9 +22,17 @@ https://github.com/andrewsmhay/cuckoo
 - #### auto installer script for Cuckoo Sandbox
 https://github.com/buguroo/cuckooautoinstall
 
+## Addons
+- #### procmon and volatility 
+https://github.com/CERT-Polska/hsn2-cuckoo/tree/master/cuckoo
+
 ## Email analysis
 - #### automated email analysis with Cuckoo Sandbox
 https://github.com/kdomic/Cuckoo_Sandbox_and_Email
 
 - #### a mail listener for cuckoosandbox
 https://github.com/nrvana/cuckooinbox
+
+## Mobile
+- #### analysis of android applications with Cuckoo Sandbox
+https://github.com/fygrave/cuckoodroid
