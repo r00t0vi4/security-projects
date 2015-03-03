@@ -36,4 +36,3 @@ https://github.com/nrvana/cuckooinbox
 ## Mobile
 - ### analysis of android applications with Cuckoo Sandbox
 https://github.com/fygrave/cuckoodroid
-
