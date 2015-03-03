@@ -45,3 +45,7 @@ https://github.com/fygrave/cuckoodroid
 
 - #### a Cuckoo Sandbox extension for Android
 https://github.com/idanr1986/cuckoo
+
+## Misc
+#### A python script to auto-generate STIX content from Cuckoo's reports stored in Mongodb
+https://github.com/blackhole-em/cuckoo2STIX
