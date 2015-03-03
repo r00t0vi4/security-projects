@@ -22,6 +22,9 @@ https://github.com/andrewsmhay/cuckoo
 - #### auto installer script for Cuckoo Sandbox
 https://github.com/buguroo/cuckooautoinstall
 
+- #### insallation instructions post
+http://habrahabr.ru/post/234467/
+
 ## Addons
 - #### procmon and volatility 
 https://github.com/CERT-Polska/hsn2-cuckoo/tree/master/cuckoo
