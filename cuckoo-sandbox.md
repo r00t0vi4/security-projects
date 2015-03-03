@@ -42,6 +42,9 @@ https://github.com/kdomic/Cuckoo_Sandbox_and_Email
 - #### a mail listener for cuckoosandbox
 https://github.com/nrvana/cuckooinbox
 
+- #### CuckooMX: Automating Email Attachments Scanning with Cuckoo
+https://github.com/xme/cuckoomx 
+
 ## Mobile
 - #### analysis of android applications with Cuckoo Sandbox
 https://github.com/fygrave/cuckoodroid
