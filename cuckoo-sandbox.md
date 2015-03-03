@@ -25,6 +25,9 @@ https://github.com/buguroo/cuckooautoinstall
 - #### insallation instructions post
 http://habrahabr.ru/post/234467/
 
+- #### another installation script
+http://www.phenotyne.com/wp-content/uploads/2013/03/Cuckoo-Install.txt
+
 ## Addons
 - #### procmon and volatility 
 https://github.com/CERT-Polska/hsn2-cuckoo/tree/master/cuckoo
