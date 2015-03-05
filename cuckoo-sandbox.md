@@ -5,6 +5,10 @@ http://www.cuckoosandbox.org/
 ## Documentation
 http://docs.cuckoosandbox.org/en/latest/
 
+## Downloads
+wget http://downloads.cuckoosandbox.org/cuckoo-current.tar.gz
+git clone git://github.com/cuckoobox/cuckoo.git
+
 ## Sandbox repositories
 - #### official cuckoo sandbox repository
 https://github.com/cuckoobox/cuckoo
