@@ -58,5 +58,11 @@ https://github.com/fygrave/cuckoodroid
 https://github.com/idanr1986/cuckoo
 
 ## Misc
-#### A python script to auto-generate STIX content from Cuckoo's reports stored in Mongodb
+- #### A python script to auto-generate STIX content from Cuckoo's reports stored in Mongodb
 https://github.com/blackhole-em/cuckoo2STIX
+
+- #### zer0m0n driver for cuckoo sandbox (official repo)
+https://github.com/conix-security/zer0m0n
+
+- #### zer0m0n driver for cuckoo sandbox (supports cuckoo 1.2)
+https://github.com/zer0box/zer0m0n
