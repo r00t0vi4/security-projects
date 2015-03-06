@@ -66,3 +66,6 @@ https://github.com/conix-security/zer0m0n
 
 - #### zer0m0n driver for cuckoo sandbox (supports cuckoo 1.2)
 https://github.com/zer0box/zer0m0n
+
+- #### Cuckoo sandbox analyses dispatcher / centralizer
+https://github.com/conix-security/CAAS
