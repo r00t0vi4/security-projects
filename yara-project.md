@@ -10,7 +10,7 @@ https://github.com/plusvic/yara
 http://yara.readthedocs.org/en/v3.3.0/index.html
 
 ## Rules sources
-- #### Loki project (ATP scanner)
+- #### Loki project (APT scanner)
 https://github.com/Neo23x0/Loki/tree/master/signatures
 
 - #### PEID, maldoc rules
