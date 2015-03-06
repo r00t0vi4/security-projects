@@ -10,10 +10,15 @@ https://github.com/plusvic/yara
 http://yara.readthedocs.org/en/v3.3.0/index.html
 
 ## Rules sources
+- #### Loki project (ATP scanner)
+https://github.com/Neo23x0/Loki/tree/master/signatures
+
+- #### PEID, maldoc rules
+http://didierstevens.com/files/software/yara-rules-V0.0.5.zip
 
 ## Tools
 - #### Yara Editor 
 https://code.google.com/p/yara-editor/
 
-- #### YaraGenerator
-https://github.com/Xen0ph0n/YaraGenerator
+- #### Yara Generator (Automatic Yara Rule Generation)
+https://yaragenerator.com/ <br /> https://github.com/Xen0ph0n/YaraGenerator
