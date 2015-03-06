@@ -22,3 +22,6 @@ https://code.google.com/p/yara-editor/
 
 - #### Yara Generator (Automatic Yara Rule Generation)
 https://yaragenerator.com/ <br /> https://github.com/Xen0ph0n/YaraGenerator
+
+- #### G-Yara (Web Base (PHP) yara rule editor)
+https://github.com/ApoNie/G-Yara
