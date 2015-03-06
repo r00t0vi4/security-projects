@@ -1,4 +1,4 @@
-# Yara
+# Yara-project
 YARA is a tool aimed at (but not limited to) helping malware researchers to identify and classify malware samples. With YARA you can create descriptions of malware families (or whatever you want to describe) based on textual or binary patterns.
 
 http://plusvic.github.io/yara/
