@@ -50,6 +50,9 @@ https://github.com/nrvana/cuckooinbox
 - #### CuckooMX: Automating Email Attachments Scanning with Cuckoo
 https://github.com/xme/cuckoomx 
 
+- #### AUTOMATED MALWARE ANALYSIS: MAIL SERVER -> CUCKOO
+https://tribalchicken.com.au/informational/automated-malware-analysis-mail-server-cuckoo/
+
 ## Mobile
 - #### analysis of android applications with Cuckoo Sandbox
 https://github.com/fygrave/cuckoodroid
