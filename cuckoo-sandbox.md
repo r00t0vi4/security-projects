@@ -53,6 +53,9 @@ https://github.com/xme/cuckoomx
 - #### AUTOMATED MALWARE ANALYSIS: MAIL SERVER -> CUCKOO
 https://tribalchicken.com.au/informational/automated-malware-analysis-mail-server-cuckoo/
 
+- #### Python Web App to Parse and Track Email and http Pcap Files
+https://github.com/kevthehermit/Maildb
+
 ## Mobile
 - #### analysis of android applications with Cuckoo Sandbox
 https://github.com/fygrave/cuckoodroid
