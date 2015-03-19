@@ -76,6 +76,6 @@ https://github.com/zer0box/zer0m0n
 - #### Cuckoo sandbox analyses dispatcher / centralizer
 https://github.com/conix-security/CAAS
 
-- #### The new Cuckoo Monitor
+- #### The new Cuckoo Monitor (docs http://cuckoo-monitor.readthedocs.org/en/latest/)
 https://github.com/jbremer/monitor
-http://cuckoo-monitor.readthedocs.org/en/latest/
+
