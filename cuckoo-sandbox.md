@@ -79,3 +79,6 @@ https://github.com/conix-security/CAAS
 - #### The new Cuckoo Monitor (docs http://cuckoo-monitor.readthedocs.org/en/latest/)
 https://github.com/jbremer/monitor
 
+- #### Automated Virtual Machine Generation and Cloaking tailored for Cuckoo Sandbox
+http://vmcloak.org/
+
