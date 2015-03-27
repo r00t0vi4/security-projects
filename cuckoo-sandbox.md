@@ -82,3 +82,6 @@ https://github.com/jbremer/monitor
 - #### Automated Virtual Machine Generation and Cloaking tailored for Cuckoo Sandbox
 http://vmcloak.org/
 
+- #### Cuckoo - elasticsearch
+https://github.com/drainware/elastic-cuckoo
+
