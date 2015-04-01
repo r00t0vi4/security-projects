@@ -26,5 +26,8 @@ https://yaragenerator.com/ <br /> https://github.com/Xen0ph0n/YaraGenerator
 - #### G-Yara (Web Base (PHP) yara rule editor)
 https://github.com/ApoNie/G-Yara
 
+- #### A Yara Bulk Rule Generator
+https://github.com/Neo23x0/yarGen
+
 - #### Process HTTP Pcaps With YARA
 https://github.com/kevthehermit/YaraPcap
