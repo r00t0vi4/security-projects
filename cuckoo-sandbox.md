@@ -17,6 +17,9 @@ https://github.com/cuckoobox/cuckoo
 - #### EmergingThreats fork with suricata/moloch/clamav and other goodies
 https://github.com/EmergingThreats/cuckoo-1.1
 
+- #### Modified edition of cuckoo with a lot of new modules
+https://github.com/KillerInstinct/cuckoo-modified
+
 ## Installation
 - #### a dumb set of scripts for building a cuckoo rig
 https://github.com/wmetcalf/buildcuckoo-trusty
