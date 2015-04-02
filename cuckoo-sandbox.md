@@ -88,3 +88,5 @@ http://vmcloak.org/
 - #### Cuckoo - elasticsearch
 https://github.com/drainware/elastic-cuckoo
 
+- #### The new Cuckoo Monitor
+https://github.com/jbremer/monitor
