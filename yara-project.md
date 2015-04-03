@@ -4,7 +4,10 @@ YARA is a tool aimed at (but not limited to) helping malware researchers to iden
 http://plusvic.github.io/yara/
 
 ## Downloads
+- #### Main repository
 https://github.com/plusvic/yara
+- #### Windows binaries
+https://googledrive.com/host/0BznOMqZ9f3VUek8yN3VvSGdhRFU
 
 ## Documentation
 http://yara.readthedocs.org/en/v3.3.0/index.html
