@@ -96,3 +96,6 @@ https://github.com/theopolis/cuckoo-lite
 
 - #### Cuckoo REST API client for Python.
 https://github.com/nilp0inter/cuckooapi
+
+- #### Cuckoo Sandbox Dockerfile
+https://github.com/blacktop/docker-cuckoo
