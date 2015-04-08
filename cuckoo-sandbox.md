@@ -90,3 +90,6 @@ https://github.com/drainware/elastic-cuckoo
 
 - #### CuckooTool
 https://github.com/laincode/CuckooTool
+
+- #### A lite version of cuckoo-sandbox, with all dynamic/behavioral analysis removed.
+https://github.com/theopolis/cuckoo-lite
