@@ -67,6 +67,9 @@ https://github.com/fygrave/cuckoodroid
 https://github.com/idanr1986/cuckoo
 
 ## Misc
+- #### Linux malware analysis based on Cuckoo Sandbox
+https://github.com/0x71/cuckoo-linux
+
 - #### A python script to auto-generate STIX content from Cuckoo's reports stored in Mongodb
 https://github.com/blackhole-em/cuckoo2STIX
 
