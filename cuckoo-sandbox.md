@@ -93,3 +93,6 @@ https://github.com/laincode/CuckooTool
 
 - #### A lite version of cuckoo-sandbox, with all dynamic/behavioral analysis removed.
 https://github.com/theopolis/cuckoo-lite
+
+- #### Cuckoo REST API client for Python.
+https://github.com/nilp0inter/cuckooapi
