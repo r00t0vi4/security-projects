@@ -17,6 +17,9 @@ http://yara.readthedocs.org/en/v3.3.0/index.html
 - #### Loki project (APT scanner)
 https://github.com/Neo23x0/Loki/tree/master/signatures
 
+- #### Rules of malware-families
+https://github.com/citizenlab/malware-signatures/tree/master/yara-rules
+
 - #### PEID, maldoc rules
 http://didierstevens.com/files/software/yara-rules-V0.0.5.zip
 
