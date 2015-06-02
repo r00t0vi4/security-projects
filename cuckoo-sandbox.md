@@ -19,6 +19,8 @@ https://github.com/EmergingThreats/cuckoo-1.1
 
 - #### Modified edition of cuckoo with a lot of new modules
 https://github.com/KillerInstinct/cuckoo-modified
+
+- #### Modified edition of cuckoo with a lot of new modules2
 https://github.com/brad-accuvant/cuckoo-modified
 
 ## Installation
