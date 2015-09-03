@@ -38,3 +38,6 @@ https://github.com/Neo23x0/yarGen
 
 - #### Process HTTP Pcaps With YARA
 https://github.com/kevthehermit/YaraPcap
+
+- #### Convert IOC to yara signatures
+https://github.com/mandiant/ioc_writer/tree/master/examples/openioc_to_yara
